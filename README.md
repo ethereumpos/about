@@ -34,3 +34,8 @@ EthereumPOS will have a Windows, Linux, and Mac application that will serve as a
 Along with desktop applications, Ethereum POS will have a mobile application on iPhone, iPad, and Android phones/tablets.
 
 # Error Handling and Logs
+
+
+<center>
+<img width="30" src="http://i.imgur.com/Nq2lvZj.jpg"> 
+</center>
