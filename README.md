@@ -27,10 +27,10 @@ Each order/transaction is a new wallet with an encrypted password that is automa
 # Possible Issues
 Using the Ethereum network can be slow at times.
 
-#### Slow Confirmations
+### Slow Confirmations
 The customer might be waiting for their payment to clear because EthereumPOS requires 1 confirmation to be marked as 'paid'. 1 confirmation all depends on the transaction fee they put into the transaction. Coinbase currently sets the fee to 0.00042 ETH, which will get confirmed very shortly. Technically a customer could pay the expected amount, but have a low transaction fee around 0.0001 which will make 1 confirmation happen in around 1-5 minutes.
 
-#### Expected Amount too Low/High
+### Expected Amount too Low/High
 If a customer pays the wallet more than expected value, Ethereum POS will refund the surplus of the wallet balance to the sender.  
 
 Example: Customer pays 3.25 ETH but expected amount is 3.00 ETH. The wallet will send 3 ETH to the merchant and the remaining balance is sent back to customer. (less for transaction fee -0.00042 ETH)
