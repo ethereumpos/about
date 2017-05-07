@@ -1,3 +1,8 @@
+
+<center>
+<img src="http://i.imgur.com/Nq2lvZj.jpg">
+</center>
+
 # Ethereum Point of Sale
 EtherereumPOS.com
 
