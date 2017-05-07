@@ -1,9 +1,9 @@
 
 <center>
-<img src="http://i.imgur.com/Nq2lvZj.jpg">
+
 </center>
 
-# Ethereum Point of Sale
+<h1><img width="70" src="http://i.imgur.com/Nq2lvZj.jpg"> Ethereum Point of Sale</h1>
 EtherereumPOS.com
 
 EthereumPOS.com is geared towards letting developers and merchants accept Ethereum (ETH) on their website or application. 
