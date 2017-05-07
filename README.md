@@ -37,5 +37,5 @@ Along with desktop applications, Ethereum POS will have a mobile application on 
 
 
 <center>
-<img width="30" src="http://i.imgur.com/Nq2lvZj.jpg"> 
+<img src="http://i.imgur.com/Nq2lvZj.jpg"> 
 </center>
