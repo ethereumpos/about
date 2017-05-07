@@ -4,6 +4,9 @@ https://ethereumpos.com
 EthereumPOS.com is geared towards letting developers and merchants accept Ethereum (ETH) on their website or application. 
 Using a simple QR code, the purchaser can scan the Ethereum Wallet and pay the expected amount for their purchase to be complete.
 
+# Why and What
+EthereumPOS is a Point of Sale system for merchants and developers who want to accept Ethereum on their website or application. 
+
 # Payment Process
 Ethereum POS is ment to be simple, and have a KISS principle API so many plugins can be built using HTTP post/get requests.
 
@@ -17,6 +20,19 @@ The customer pays the expected amount to the wallet shown, the transation is mar
 Once there are 12+ confirmations the entire balance of the wallet will be sent to the merchant/developer. A POST callback will be send to the merchants application and the order should be marked as 100% paid. 
 
 # Transaction Fees
+### Ethereum Fees
+Type | ETH Cost
+--- | ---
+Incoming Payment | 0
+Payment To Developer | 0.00042 
+
+### EthereumPOS Fees
+Transaction Value | Fee Percent | Maximum Fee
+--- | --- | ---
+$25 | 0% | 0
+$50 | 0.01% | 0.01 ETH
+$1000 | 0.008% | 0.01 ETH
+$10000 | 0.004% | 0.01 ETH
 
 # Speed
 Thankfully, Ethereum's network is pretty fast. Every 15-60 seconds a block gets broken and hopefully the users transaction is in the next block. When an order has 1 confirmation, it is marked as 'paid' for the customer. 
