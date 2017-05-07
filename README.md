@@ -29,10 +29,9 @@ Payment To Developer | 0.00042
 ### EthereumPOS Fees
 Transaction Value | Fee Percent | Maximum Fee
 --- | --- | ---
-$25 | 0% | 0
-$50 | 0.01% | 0.01 ETH
-$1000 | 0.008% | 0.01 ETH
-$10000 | 0.004% | 0.01 ETH
+$1 - $1000 | 0.01% | 0.01 ETH
+$1000 - $5000 | 0.008% | 0.01 ETH
+$5000+ | 0.004% | 0.01 ETH
 
 # Speed
 Thankfully, Ethereum's network is pretty fast. Every 15-60 seconds a block gets broken and hopefully the users transaction is in the next block. When an order has 1 confirmation, it is marked as 'paid' for the customer. 
