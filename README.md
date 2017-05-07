@@ -4,7 +4,7 @@
 </center>
 
 <h1><img width="30" src="http://i.imgur.com/Nq2lvZj.jpg"> Ethereum Point of Sale</h1>
-EtherereumPOS.com
+https://ethereumpos.com
 
 EthereumPOS.com is geared towards letting developers and merchants accept Ethereum (ETH) on their website or application. 
 Using a simple QR code, the purchaser can scan the Ethereum Wallet and pay the expected amount for their purchase to be complete.
@@ -25,7 +25,7 @@ Once there are 12+ confirmations the entire balance of the wallet will be sent t
 Thankfully, Ethereum's network is pretty fast. Every 15-60 seconds a block gets broken and hopefully the users transaction is in the next block. When an order has 1 confirmation, it is marked as 'paid' for the customer. 
 
 # Security
-Each order/transaction is a new wallet with an encrypted password that is automatically locked. Once an order is placed, customer pays the expected amount, and 12+ confirmations on the payment, the ethereum wallet will unlock for 15 seconds and send the entire wallet balance to merchant. 
+Each order/transaction is a new wallet with an encrypted password that is automatically locked. Once an order is placed, customer pays the expected amount, and 12+ confirmations on the payment, the ethereum wallet will unlock for 15 seconds and send the entire wallet balance to merchant. After the transaction is complete, the wallet will not be reused. 
 
 # Desktop Applications
 EthereumPOS will have a Windows, Linux, and Mac application that will serve as a simple to use Point of Sale system.
