@@ -4,6 +4,18 @@ https://ethereumpos.com
 EthereumPOS.com is geared towards letting developers and merchants accept Ethereum (ETH) on their website or application. 
 Using a simple QR code, the purchaser can scan the Ethereum Wallet and pay the expected amount for their purchase to be complete.
 
+[EthereumPOS API Documentation](https://docs.ethereumpos.com)
+
+##### EthereumPOS Mainnet API Endpoint
+```
+https://api.ethereumpos.com
+```
+
+##### EthereumPOS Ropsten Testnet API Endpoint
+```
+https://testapi.ethereumpos.com
+```
+
 # Why and What
 EthereumPOS is a Point of Sale system for merchants and developers who want to accept Ethereum on their website or application. 
 Using Ethereum blockchain you'll be able to confirm transactions quicker than with the bloat of the Bitcoin blockchain. EthereumPOS allows online shopping carts and applications to receive a callback to confirm the customer paid in full.
