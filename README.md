@@ -6,6 +6,7 @@ Using a simple QR code, the purchaser can scan the Ethereum Wallet and pay the e
 
 # Why and What
 EthereumPOS is a Point of Sale system for merchants and developers who want to accept Ethereum on their website or application. 
+Using Ethereum blockchain you'll be able to confirm transactions quicker than with the bloat of the Bitcoin blockchain. EthereumPOS allows online shopping carts and applications to receive a callback to confirm the customer paid in full.
 
 # Payment Process
 Ethereum POS is ment to be simple, and have a KISS principle API so many plugins can be built using HTTP post/get requests.
