@@ -22,10 +22,10 @@ Once there are 12+ confirmations the entire balance of the wallet will be sent t
 
 # Transaction Fees
 ### Ethereum Fees
-Type | ETH Cost
---- | ---
-Incoming Payment | 0
-Payment To Developer | 0.00042 
+Type | ETH Cost | Comment
+--- | --- | ---
+Incoming Payment | 0 | Customer pays transaction fee
+Payment To Developer | 0.00042 | Wallet pays transaction fee
 
 ### EthereumPOS Fees
 Transaction Value | Fee Percent | Maximum Fee
